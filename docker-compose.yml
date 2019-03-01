@@ -1,0 +1,6 @@
+version: '2'
+services:
+  request_manager:
+    image: 'request_manager'
+    ports:
+          - '8009:8009'

@@ -1,0 +1,21 @@
+{
+  "name": "request_manager",
+  "version": "0.0.1",
+  "engines": {},
+  "description": "request manager",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --timeout 1000000"
+  },
+  "main": "index.js",
+  "repository": {},
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "node-base64-image": "^1.0.4",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}

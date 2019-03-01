@@ -1,0 +1,10 @@
+/tasks
+/logs
+/rec
+/media/temp
+/node_modules
+/data/*
+/data/cdr.db
+package-lock.json
+config_mars.js
+/.tmp
